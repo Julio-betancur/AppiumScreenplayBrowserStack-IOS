@@ -29,7 +29,7 @@ _Asegúrese de tener instalados los siguientes programas:_
 
 _Para ejecutar las pruebas en su entorno local, ejecute el siguiente comando en una terminal desde la carpeta raíz del proyecto:_
 
-`**gradle clean test aggregate**`
+`gradle clean test aggregate`
 
 Esto ejecutará todas las pruebas definidas en el proyecto y generará un informe detallado de los resultados en la carpeta **target/site/serenity/index.html**
 
