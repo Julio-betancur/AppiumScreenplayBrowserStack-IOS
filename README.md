@@ -17,7 +17,7 @@ _Asegúrese de tener instalados los siguientes programas:_
 ### Clonar repositorio 🔧
 
 1.  Abra una terminal y navegue a la ubicación donde desea clonar el repositorio.
-2.  Ejecute el siguiente comando: `**git clone https://github.com/Julio-betancur/AppiumScreenplayBrowserStack-IOS.git**`
+2.  Ejecute el siguiente comando: `git clone https://github.com/Julio-betancur/AppiumScreenplayBrowserStack-IOS.git`
 
 ### Importar el proyecto en su IDE ⚙️
 
