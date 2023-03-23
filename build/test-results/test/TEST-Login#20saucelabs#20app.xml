@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Login saucelabs app" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-22T18:45:22" hostname="PSOFKA01198" time="59.981">
+<testsuite name="Login saucelabs app" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-23T00:34:38" hostname="PSOFKA01198" time="88.331">
   <properties/>
-  <testcase name="Login with valid credentials" classname="Login saucelabs app" time="59.981"/>
+  <testcase name="Login with valid credentials" classname="Login saucelabs app" time="88.331"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack%20-%20IOS/src/test/resources/android.demoapk/login.feature
-[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack%20-%20IOS/src/test/resources/android.demoapk/login.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack-IOS/src/test/resources/android.demoapk/login.feature
+[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack-IOS/src/test/resources/android.demoapk/login.feature is not under the 'features' directory. Requirements report will not be correctly generated!
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
  |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
@@ -15,7 +15,7 @@ Login with valid credentials(login-saucelabs-app;login-with-valid-credentials)
 --------------------------------------------------------------------------------
 [Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory Login saucelabs app
 [Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory Login saucelabs app
-mar. 22, 2023 1:45:37 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+mar. 22, 2023 7:34:55 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
 INFO: Detected dialect: OSS
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  

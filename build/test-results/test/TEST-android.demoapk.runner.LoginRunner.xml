@@ -4,12 +4,12 @@
   <system-out><![CDATA[
 1 Scenarios (?[32m1 passed?[0m)
 3 Steps (?[32m3 passed?[0m)
-1m0,127s
+1m28,527s
 
 
 ]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack%20-%20IOS/src/test/resources/android.demoapk/login.feature
-[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack%20-%20IOS/src/test/resources/android.demoapk/login.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack-IOS/src/test/resources/android.demoapk/login.feature
+[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack-IOS/src/test/resources/android.demoapk/login.feature is not under the 'features' directory. Requirements report will not be correctly generated!
 [Test worker] INFO  - 
 
 -------------------------------------------------------------------------------------
@@ -27,10 +27,10 @@
 -------------------------------------------------------------------------------------
 
 [Test worker] INFO  - Test Suite Started: Login saucelabs app
-[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@1fc1c7e: Generating report for test outcome: Login saucelabs app:Login with valid credentials
-[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@3d53e876: Generating report for test outcome: Login saucelabs app:Login with valid credentials
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@573a078: Generating report for test outcome: Login saucelabs app:Login with valid credentials
+[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@5c4714ef: Generating report for test outcome: Login saucelabs app:Login with valid credentials
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -53,8 +53,8 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -78,8 +78,8 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -104,8 +104,8 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -129,8 +129,8 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -155,8 +155,8 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
-java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack%20-%20IOS\src\test\resources\android.demoapk\login.feature
+[pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider - Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\julio.betancur\Documents\Proyectos_Prueba\AppiumScreenplayBrowserStack-IOS\src\test\resources\android.demoapk\login.feature
 	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
 	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
@@ -182,6 +182,6 @@ java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
-[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack%20-%20IOS/src/test/resources/android.demoapk/login.feature
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/julio.betancur/Documents/Proyectos_Prueba/AppiumScreenplayBrowserStack-IOS/src/test/resources/android.demoapk/login.feature
 ]]></system-err>
 </testsuite>

@@ -9,7 +9,6 @@ public class HomeUI {
     public static final Target CONFIRM_LOGOUT_BTN = Target.the("Button to confirm logout").located(MobileBy.xpath("//XCUIElementTypeButton[@name='Log Out']"));
     public static final Target CONFIRM_LOGOUT_TXT = Target.the("Text to confirm logout").located(MobileBy.xpath("//XCUIElementTypeStaticText[contains(@value,'logged')]"));
 
-
 }
 
 

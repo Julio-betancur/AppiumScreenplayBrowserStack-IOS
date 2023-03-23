@@ -32,7 +32,7 @@ public class IOSDriver {
 
             // Set other BrowserStack capabilities
             caps.setCapability("project", "IOSDemo");
-            caps.setCapability("build", "IOS SauceLab build 3");
+            caps.setCapability("build", "IOS SauceLab build 2");
             caps.setCapability("name", "Login test IOS");
 
             driver =  new io.appium.java_client.ios.IOSDriver<IOSElement>(new URL("http://hub-cloud.browserstack.com/wd/hub"), caps);
