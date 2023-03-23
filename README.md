@@ -44,8 +44,6 @@ src
 │   │   │   ├── questions
 │   │   │   ├── tasks
 │	│	│ 	├── userinterface
-
-
 │	│	└──
 │   └── resources
 │      
@@ -55,8 +53,6 @@ src
     │   │   ├── runner
     │   │   ├── stepdefinitions
     │   └──   
-   
-     
     └── resources
         └── features
         └── app
